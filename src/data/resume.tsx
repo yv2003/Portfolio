@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "I am a Full Stack Web Developer",
   summary:
-    "I am a Computer Engineering student with a strong foundation in frontend development, proficient in ReactJS, HTML, CSS, and JavaScript. I build and maintain websites while managing technical events. Passionate about web innovation, I enjoy problem-solving and creating user-friendly experiences. Outside of coding, I love exploring new technologies, watching movies with friends, and staying active in sports",
+    "I am a Computer Engineering student with a strong foundation in web development, proficient in ReactJS, HTML, CSS, and JavaScript,NodeJs and Express. Passionate about web innovation, I enjoy problem-solving and creating user-friendly experiences. Outside of coding, I love exploring new technologies, watching movies with friends, and staying indoors reading books.",
   avatarUrl: "/yashasvi.jpg",
   skills: [
     "React",
