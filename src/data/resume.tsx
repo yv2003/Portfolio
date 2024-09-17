@@ -67,7 +67,7 @@ export const DATA = {
   work: [
     {
       company: "Jio Platforms LTD",
-      href: "https://atomic.finance",
+      href: "",
       badges: [],
       location: "On site",
       title: "Intern",
@@ -80,7 +80,7 @@ export const DATA = {
     {
       company: "TCET Open Source",
       badges: [],
-      href: "https://shopify.com",
+      href: "",
       location: "Remote",
       title: "Frontend Developer",
       logoUrl: "/OS.png",
@@ -92,7 +92,7 @@ export const DATA = {
   education: [
     {
       school: "Thakur College of Engineering and Technology",
-      href: "https://buildspace.so",
+      href: "",
       degree: "Bachlors in Computer Engineering",
       logoUrl: "/tcet.jpeg",
       start: "2021",
