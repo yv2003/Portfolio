@@ -103,7 +103,7 @@ export const DATA = {
     {
       title: "Leaarnify",
       // href: "https://chatcollect.com",
-      // dates: "Aug 2024 - Sept 2024",
+      dates: "Aug 2024 - Sept 2024",
       active: true,
       description:
         "Allows tutors to seamlessly upload lectures and manage course content. A streamlined system for students to access and purchase courses offered by tutors",
@@ -123,7 +123,7 @@ export const DATA = {
     },{
       title: "SpendWise",
       // href: "https://chatcollect.com",
-      // dates: "Jan 2024 - Feb 2024",
+      dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
         "An expense tracker that tracks daily expenses based on user data which also tracks monthly expenses allowing smart savings and seamless user experience.",
@@ -144,7 +144,7 @@ export const DATA = {
     {
       title: "StaffPro",
       // href: "https://magicui.design",
-      // dates: "June 2024 - July 2024",
+      dates: "June 2024 - July 2024",
       active: true,
       description:
         "An Employee Management system for admins to track and maintain and perform CRUD operations employee data.Displays employee profile and tracks leaves, absences and vacation of employee.",
